@@ -56,7 +56,7 @@ This project is focused on classifying chest cancer using machine learning techn
 1. **Start the Application**:
    Run the following command to start the application:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## Workflow
